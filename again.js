@@ -1,4 +1,5 @@
 let a = "farhan";
 let m = "magsi";
-console.log(a);
+let city = "karachi";
+console.log(a + " " + m + " " + city);
 export {};
